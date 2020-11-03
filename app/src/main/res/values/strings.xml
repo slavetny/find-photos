@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">find-photos</string>
+    <string name="photo_search_hint">Enter photo key word here:</string>
+    <string name="history">History:</string>
 </resources>
